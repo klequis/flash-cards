@@ -1,2 +1,3 @@
-# Blank React with CSS Modules Project Template
+# Flash Cards
 
+Flash card app, works but built for learning, so crude.
