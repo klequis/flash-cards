@@ -5,7 +5,5 @@ export const getCards = (state) => {
 
 export const getCurrentCard = (state) => {
   const o = state.currentCard
-  console.log('state', state)
-  console.log('state.currentCard', o)
   return o
 }

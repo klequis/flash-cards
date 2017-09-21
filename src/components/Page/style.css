@@ -23,7 +23,10 @@ header {
 :global(.green-text) {
   color: #34E97C;
 }
-
+.page {
+  display: flex;
+  flex-flow: column;
+}
 .image-image {
   max-width: 50px;
 }
